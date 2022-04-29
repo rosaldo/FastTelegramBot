@@ -1,2 +1,2 @@
 # FastTelegramBot
-Testes com Bots do Telegram e a FastAPI
+Testes com Bots do Telegram e FastAPI
